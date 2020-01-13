@@ -12,12 +12,14 @@ In sum, I want to improve present thoughts, refer to past thoughts, and share fu
 
 A GitHub repository is ideal for all these purposes.
 
-Using Markdown allows the simplicity of writing notes in a text-file, with the ability to add formatting and structure if desired. GitHub has built-in support for Markdown; simply click the link for a Markdown file in the online interface and you will see your markdown.
+GitHub allows:
 
-GitHub allows version-control on the Markdown documents. Changes over time can be tracked and preserved.
+- Using Markdown. Markdown allows the simplicity of writing notes in a text-file, with the ability to add formatting and structure if desired. GitHub has built-in support for Markdown; simply click the link for a Markdown file in the online interface and you will see your markdown.
 
-GitHub allows work on notes from any machine!
+- Version-control on the Markdown documents. Changes over time can be tracked and preserved.
 
-GitHub allows notes to be shared everywhere.
+- Work on notes from any machine!
 
-GitHub allows some notes to be private, while some notes are public, simply by being in either a public or private repository.
+- Notes to be shared everywhere online.
+
+- Some notes to be private, while some notes are public, simply by being in either a public or private repository.
